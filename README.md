@@ -1,6 +1,4 @@
-### Hi there, I am Chrysanthemum! 👋
-
-Here are some ideas to get you started:
+### Hi there, I'm Chrysanthemum! 👋
 
 - 🔭 I’m currently working on a java application
 - 🌱 I’m currently learning Flutter, Dart and Django
