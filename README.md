@@ -1,10 +1,9 @@
 ### Hi there, I'm Chrysanthemum! 👋
 
-- 🔭 I’m currently working on a java application
-- 🌱 I’m currently learning Flutter, Dart and Django
-- 👯 I’m looking to collaborate on any python project
-- 🤔 I’m looking for help with Django applications
-- 💬 Ask me about python or java
+- 🔭 I’m currently working on statistical modelling in R 
+- 🌱 I’m currently learning Java and R
+- 👯 I’m looking to collaborate on any R or python project
+- 💬 Ask me about R or python
 - 📫 How to reach me: chrysmunatsi@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I spend 10 hours a day listening to music
