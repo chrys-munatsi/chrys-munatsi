@@ -6,5 +6,5 @@
 - 💬 Ask me about R or python
 - 📫 How to reach me: chrysmunatsi@gmail.com
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I spend 10 hours a day listening to music
+
 
